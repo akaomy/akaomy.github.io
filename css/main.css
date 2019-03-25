@@ -1,0 +1,112 @@
+body {
+  font-size: 18px;
+  font-family: monospace;
+}
+
+hr {
+  border-top: 1px solid #7d97ad;
+  margin-bottom: 5%;
+}
+
+h1 {
+  font-size: 2.5em;
+  font-weight: 500; /*40*/
+  margin-bottom: 0;
+}
+
+h2 {
+  padding-top: 5%; /*20*/
+  text-transform: uppercase;
+  font-size: 1.25em;
+  font-weight: 200;
+}
+
+h3 {
+  font-size: 1.125em; /*18*/
+}
+
+p {
+  color: grey;
+  font-size: 1em; /*16*/
+}
+
+
+.featured-title {
+  text-decoration: none;
+  color: white;
+  background-color: #02b3e4;
+  padding: 2% 5%;
+}
+
+.container {
+  margin: 0 5%;
+}
+
+.clear {
+  clear: both;
+}
+
+.hero-image {
+  width: 100%;
+  display: block;
+}
+
+/* Project images styling */
+.project-img {
+  filter: grayscale(85%);
+}
+
+.project-img:hover {
+  filter: grayscale(0%);
+}
+
+.project-description-par {
+  padding: 0px 2% 0px 2%;
+  text-align: left;
+  width: 95%;
+  line-height: 1.2em;
+}
+
+
+/* Social media and legal info */
+.fa {
+  padding: 7px;
+  text-decoration: none;
+  margin: 20px 0px 5px 0px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-instagram {
+  background: #2d3c49;
+  color: white;
+}
+
+.fa-twitter {
+  background: #2d3c49;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #2d3c49;
+  color: white;
+}
+
+.contact-legal-data {
+  padding-top: 15%;
+  text-align: center;
+}
+
+.social-media a{
+  display: inline-block;
+  width: 1.2em;
+}
+
+.legal {
+  font-size: 0.75em;
+  margin-top: 1%;
+  margin-bottom: 4%;
+  text-align: center;
+}

@@ -1,0 +1,45 @@
+@media screen and (min-width: 700px) and (max-width: 960px) {
+  .container {
+    width: 700px;
+    margin: 0 auto;
+  }
+
+  .website-logo {
+    width: 35%;
+    display: inline-block;
+    padding:25px 0 0 15px;
+  }
+
+  .website-title {
+    text-align: right;
+    width: 55%;
+    display: inline-block;
+    float: right;
+  }
+
+  .featured-work-title {
+    text-align: center;
+    margin: 18% 0 20% 0;
+  }
+
+  .projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .project-item {
+    display: flex;
+    padding: 35px;
+    border-top: 1px solid #7d97ad;
+  }
+
+  .main-header {
+    padding: 5%;
+  }
+
+  .project-info-container {
+    text-align: center;
+    padding-right: 2%;
+  }
+}
