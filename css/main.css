@@ -67,6 +67,9 @@ p {
   line-height: 1.2em;
 }
 
+.project-item:hover {
+  transform: scale(1.01);
+}
 
 /* Social media and legal info */
 .fa {
