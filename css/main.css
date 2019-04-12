@@ -46,9 +46,6 @@ p {
   clear: both;
 }
 
-.featured-work-title:hover {
-  transform: skewY(-7deg);
-}
 
 .hero-image {
   width: 100%;
