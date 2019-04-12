@@ -52,6 +52,8 @@ p {
   display: block;
 }
 
+.img
+
 /* Project images styling */
 .project-img {
   filter: grayscale(85%);
