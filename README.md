@@ -1,5 +1,4 @@
 <h1 align="center">Website portfolio</h1>
-<h2 align="center">Anna Kozlova | Front-End Developer </h2>
 <p align="center">Live preview: <a href="https://akaomy.github.io/">Portfolio Website</a></p><br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/6992753/57828369-24d4c380-7760-11e9-8d4f-a11a30cbcf9c.png" alt="Portfolio Website">
