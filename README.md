@@ -2,7 +2,7 @@
 <h2 align="center">Anna Kozlova | Front-End Developer </h2>
 <p align="center">Live preview: <a href="https://akaomy.github.io/">Portfolio Website</a></p><br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/6992753/54953012-80bf6080-4f04-11e9-8c3f-e8544a7e206a.png" width="550" alt="Portfolio Website">
+<img src="https://user-images.githubusercontent.com/6992753/57828369-24d4c380-7760-11e9-8d4f-a11a30cbcf9c.png" alt="Portfolio Website">
 </p>
 <p>Was created during the time of taking Udacity Front End Development nanodegree
 track</p>
