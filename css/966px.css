@@ -1,9 +1,4 @@
 @media screen and (min-width: 966px) {
-  .website-logo {
-    width: 35%;
-    display: inline-block;
-    padding: 23px 0 0 15px;
-  }
 
   .website-title {
     text-align: right;
