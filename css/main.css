@@ -30,6 +30,10 @@ p {
   font-size: 1em; /*16*/
 }
 
+img {
+  max-width: 280px;
+}
+
 .featured-title {
   text-decoration: none;
   color: white;
@@ -44,14 +48,14 @@ p {
 .clear {
   clear: both;
 }
-
-
 .hero-image {
   width: 100%;
   display: block;
 }
 
-.img
+.nav-link {
+  display: block;
+}
 
 /* Project images styling */
 .project-img {
@@ -104,7 +108,7 @@ p {
   text-align: center;
 }
 
-.social-media a{
+#social-media a{
   display: inline-block;
   width: 1.2em;
 }
@@ -114,4 +118,12 @@ p {
   margin-top: 1%;
   margin-bottom: 4%;
   text-align: center;
+}
+
+.author-photo {
+  padding: 3%;
+}
+
+.about-text-wrapper {
+padding: 1%;
 }

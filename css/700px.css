@@ -36,4 +36,21 @@
     text-align: center;
     padding-right: 2%;
   }
+
+  .nav-link {
+    padding-bottom: 5%;
+  }
+
+  .about-wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+  .author-photo {
+    padding: 4% 0;
+  }
+
+  .about-text-wrapper {
+  padding: 1% 3%;
+  }
+
 }

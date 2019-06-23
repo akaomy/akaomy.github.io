@@ -3,6 +3,10 @@
     font-size: 1.125em;
   }
 
+  img {
+    max-width: 100%;
+  }
+
   .website-title {
     text-align: center;
     padding-bottom: 7%;
@@ -33,5 +37,14 @@
 
   .legal {
     margin-top: 10%;
+  }
+
+  .nav-link {
+    padding-top: 4%;
+  }
+
+  .about-wrapper {
+    display: flex;
+    flex-direction: column;
   }
 }
