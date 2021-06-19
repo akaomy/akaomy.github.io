@@ -32,6 +32,14 @@ p {
 
 img {
   max-width: 280px;
+  border-radius: 50%;
+}
+
+.website-title__photo-me {
+  border-radius: 20%;
+  padding: 20px;
+  float: right;
+  margin-top: -200px;
 }
 
 .featured-title {
@@ -60,6 +68,7 @@ img {
 /* Project images styling */
 .project-img {
   filter: grayscale(85%);
+  border-radius: 5%;
 }
 
 .project-img:hover {

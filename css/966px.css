@@ -1,8 +1,8 @@
 @media screen and (min-width: 966px) {
 
   .website-title {
-    text-align: right;
-    width: 55%;
+    /* text-align: left; */
+    width: 100%;
     display: inline-block;
     float: right;
   }
